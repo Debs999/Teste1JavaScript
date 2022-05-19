@@ -1,0 +1,27 @@
+
+#exemplo{
+    width: 300px ;
+    height: 50px;
+    border: 2px solid #000000;
+}
+.roxo{
+  background-color: #8920F5;
+}
+.rosa{
+  background-color: #c52e86;
+}
+.vermelho{
+  background-color: #FF0000;
+}
+.verde{
+    background-color: #00FF00;
+    color: #000000;
+}
+.preto{
+    background-color: #000000;
+    color: aliceblue;
+}
+.botao{
+    border-radius: 8px blue;
+    width: 80px;
+}
